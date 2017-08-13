@@ -10,7 +10,7 @@
     <build>
         <plugins>
             <plugin>
-                <artifactID>maven-compiler-plugin</artifactID>
+                <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
                     <source>1.8</source>
